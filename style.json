@@ -2,6 +2,15 @@
   "version": 8,
   "metadata": {},
   "sources": {
+    "hir_hok": {
+      "type": "vector",
+      "tiles": [
+        "https://mghs15.github.io/test3/hiroshima_hokaichi/{z}/{x}/{y}.pbf"
+      ],
+      "attribution": "e15",
+      "minzoom": 15,
+      "maxzoom": 15
+    },
     "e15": {
       "type": "vector",
       "tiles": [
