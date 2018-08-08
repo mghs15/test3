@@ -670,7 +670,7 @@
       "id": "hokai_outline",
       "type": "line",
       "source": "hokai",
-      "source-layer": "$point",
+      "source-layer": "$line",
       "minzoom": 0,
       "layout": {
         "line-cap": "butt",
