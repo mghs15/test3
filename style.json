@@ -7,9 +7,9 @@
       "tiles": [
         "https://mghs15.github.io/test3/hiroshima_hokaichi/{z}/{x}/{y}.pbf"
       ],
-      "attribution": "e15",
-      "minzoom": 15,
-      "maxzoom": 15
+      "attribution": "hokai",
+      "minzoom": 0,
+      "maxzoom": 14
     },
     "e15": {
       "type": "vector",
@@ -578,6 +578,61 @@
         "icon-color": "rgba(255, 0, 0, 1)"
       }
     },
+        {
+            "id": "hiroshima-hokaichi",
+            "type": "fill",
+            "source": "composite",
+            "source-layer": "hiroshima_hokaichi",
+            "filter": [
+                "==",
+                "$type",
+                "Polygon"
+            ],
+            "layout": {},
+            "paint": {
+                "fill-color": "hsl(59, 96%, 72%)",
+                "fill-outline-color": "hsl(0, 100%, 17%)"
+            }
+        },
+        {
+            "id": "hiroshima-hokaichi_p",
+            "type": "circle",
+            "source": "composite",
+            "source-layer": "hiroshima_hokaichi",
+            "filter": [
+                "==",
+                "$type",
+                "Point"
+            ],
+            "layout": {},
+            "paint": {
+                "circle-color": "hsl(0, 100%, 45%)",
+                "circle-translate": [
+                    "literal",
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "circle-stroke-width": 1
+            }
+        },
+        {
+            "id": "hiroshima-hokaichi_l",
+            "type": "line",
+            "source": "composite",
+            "source-layer": "hiroshima_hokaichi",
+            "filter": [
+                "==",
+                "$type",
+                "LineString"
+            ],
+            "layout": {},
+            "paint": {
+                "line-color": "hsl(26, 99%, 53%)",
+                "line-width": 4
+            }
+        },
     {
       "id": "anno",
       "type": "symbol",
@@ -666,17 +721,6 @@
         "text-color": "rgba(103, 58, 183, 1)"
       }
     },
-    {
-      "id": "hokai_outline",
-      "type": "line",
-      "source": "hokai",
-      "source-layer": "$line",
-      "minzoom": 0,
-      "layout": {
-        "line-cap": "butt",
-        "line-join": "miter",
-        "visibility": "visible"
-      },
     {
       "id": "pfpt",
       "type": "symbol",
