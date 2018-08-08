@@ -2,7 +2,7 @@
   "version": 8,
   "metadata": {},
   "sources": {
-    "hir_hok": {
+    "hokai": {
       "type": "vector",
       "tiles": [
         "https://mghs15.github.io/test3/hiroshima_hokaichi/{z}/{x}/{y}.pbf"
@@ -666,6 +666,17 @@
         "text-color": "rgba(103, 58, 183, 1)"
       }
     },
+    {
+      "id": "hokai_outline",
+      "type": "line",
+      "source": "hokai",
+      "source-layer": "$point",
+      "minzoom": 0,
+      "layout": {
+        "line-cap": "butt",
+        "line-join": "miter",
+        "visibility": "visible"
+      },
     {
       "id": "pfpt",
       "type": "symbol",
