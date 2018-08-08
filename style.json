@@ -581,7 +581,7 @@
         {
             "id": "hiroshima-hokaichi",
             "type": "fill",
-            "source": "composite",
+            "source": "hokai",
             "source-layer": "hiroshima_hokaichi",
             "filter": [
                 "==",
@@ -597,7 +597,7 @@
         {
             "id": "hiroshima-hokaichi_p",
             "type": "circle",
-            "source": "composite",
+            "source": "hokai",
             "source-layer": "hiroshima_hokaichi",
             "filter": [
                 "==",
@@ -620,7 +620,7 @@
         {
             "id": "hiroshima-hokaichi_l",
             "type": "line",
-            "source": "composite",
+            "source": "hokai",
             "source-layer": "hiroshima_hokaichi",
             "filter": [
                 "==",
