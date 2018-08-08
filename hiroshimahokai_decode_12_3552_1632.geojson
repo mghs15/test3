@@ -1,0 +1,126 @@
+{ "type": "FeatureCollection", "properties": { "zoom": 12, "x": 3557, "y": 1632 }, "features": [
+{ "type": "FeatureCollection", "properties": { "layer": "hiroshima_hokaichi", "version": 2, "extent": 4096 }, "features": [
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.660685, 34.307835 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.675834, 34.307569 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.682636, 34.307303 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.712741, 34.307977 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.625644, 34.296792 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.646780, 34.285801 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.649999, 34.289967 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.662101, 34.304893 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.667487, 34.304077 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.652295, 34.283283 ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.663174, 34.289346 ], [ 132.665427, 34.287840 ], [ 132.667401, 34.286687 ], [ 132.667594, 34.286013 ], [ 132.666650, 34.285623 ], [ 132.666328, 34.284772 ], [ 132.667294, 34.283992 ], [ 132.667594, 34.283283 ], [ 132.667680, 34.282538 ], [ 132.667358, 34.281971 ], [ 132.666457, 34.281439 ], [ 132.664247, 34.281120 ], [ 132.661436, 34.281581 ], [ 132.660170, 34.281439 ], [ 132.658861, 34.281882 ], [ 132.659419, 34.282538 ], [ 132.660599, 34.282999 ], [ 132.660728, 34.283531 ], [ 132.660170, 34.284116 ], [ 132.659097, 34.284701 ], [ 132.658260, 34.285499 ], [ 132.658303, 34.286226 ], [ 132.660406, 34.286528 ], [ 132.660835, 34.289027 ], [ 132.663174, 34.289346 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.648067, 34.264594 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.636716, 34.242069 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.645643, 34.245120 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.661822, 34.266296 ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.660706, 34.262714 ], [ 132.661500, 34.262608 ], [ 132.662122, 34.262218 ], [ 132.662616, 34.262164 ], [ 132.663431, 34.262430 ], [ 132.663968, 34.262147 ], [ 132.664440, 34.261739 ], [ 132.666264, 34.260568 ], [ 132.667015, 34.259699 ], [ 132.667594, 34.258618 ], [ 132.668302, 34.257624 ], [ 132.668431, 34.257004 ], [ 132.668238, 34.256489 ], [ 132.668431, 34.256152 ], [ 132.669075, 34.255727 ], [ 132.669461, 34.255230 ], [ 132.669075, 34.254414 ], [ 132.668517, 34.254680 ], [ 132.667830, 34.255124 ], [ 132.667551, 34.255212 ], [ 132.667379, 34.255053 ], [ 132.667487, 34.254361 ], [ 132.667294, 34.253740 ], [ 132.667143, 34.253244 ], [ 132.666886, 34.252995 ], [ 132.666392, 34.253120 ], [ 132.665985, 34.253545 ], [ 132.665877, 34.254130 ], [ 132.665534, 34.254397 ], [ 132.664912, 34.254645 ], [ 132.664032, 34.254503 ], [ 132.663131, 34.254290 ], [ 132.662637, 34.254361 ], [ 132.662508, 34.254787 ], [ 132.662358, 34.255035 ], [ 132.660964, 34.255053 ], [ 132.660599, 34.255212 ], [ 132.660320, 34.255673 ], [ 132.660298, 34.256560 ], [ 132.660320, 34.257234 ], [ 132.660470, 34.257944 ], [ 132.660470, 34.258511 ], [ 132.659934, 34.258777 ], [ 132.659719, 34.259150 ], [ 132.659590, 34.259823 ], [ 132.659762, 34.260320 ], [ 132.660556, 34.261402 ], [ 132.660878, 34.261686 ], [ 132.661564, 34.262023 ], [ 132.660556, 34.262413 ], [ 132.660513, 34.262519 ], [ 132.660706, 34.262714 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.674718, 34.305283 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.676542, 34.303953 ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.673023, 34.296845 ], [ 132.673581, 34.296579 ], [ 132.673860, 34.296172 ], [ 132.673688, 34.295746 ], [ 132.673774, 34.295480 ], [ 132.674053, 34.295143 ], [ 132.673903, 34.294895 ], [ 132.672894, 34.294842 ], [ 132.671950, 34.294895 ], [ 132.671564, 34.295214 ], [ 132.671392, 34.295746 ], [ 132.671392, 34.296047 ], [ 132.671671, 34.296313 ], [ 132.671993, 34.296632 ], [ 132.672315, 34.296757 ], [ 132.673023, 34.296845 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.683730, 34.305549 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.689331, 34.304875 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.691884, 34.298884 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.686520, 34.294966 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.689824, 34.296650 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.691176, 34.290446 ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.678838, 34.283141 ], [ 132.679975, 34.282893 ], [ 132.679439, 34.282290 ], [ 132.679031, 34.281173 ], [ 132.678645, 34.280836 ], [ 132.678001, 34.281049 ], [ 132.677658, 34.281563 ], [ 132.677143, 34.281953 ], [ 132.676585, 34.281971 ], [ 132.676113, 34.281209 ], [ 132.675362, 34.280198 ], [ 132.674332, 34.278992 ], [ 132.672937, 34.278514 ], [ 132.672594, 34.278797 ], [ 132.673259, 34.279808 ], [ 132.673624, 34.280890 ], [ 132.673860, 34.281616 ], [ 132.674847, 34.282077 ], [ 132.675877, 34.282663 ], [ 132.677207, 34.282946 ], [ 132.678838, 34.283141 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.679632, 34.279382 ], [ 132.679782, 34.278992 ], [ 132.679589, 34.278478 ], [ 132.678752, 34.277999 ], [ 132.677894, 34.277397 ], [ 132.677572, 34.276971 ], [ 132.678130, 34.276705 ], [ 132.678881, 34.276776 ], [ 132.679267, 34.277290 ], [ 132.680104, 34.277538 ], [ 132.680662, 34.277326 ], [ 132.681220, 34.277273 ], [ 132.682078, 34.277592 ], [ 132.682679, 34.278141 ], [ 132.683773, 34.278053 ], [ 132.684052, 34.277343 ], [ 132.684095, 34.276953 ], [ 132.683194, 34.275960 ], [ 132.683623, 34.275358 ], [ 132.685211, 34.274914 ], [ 132.685318, 34.274365 ], [ 132.685254, 34.273443 ], [ 132.685876, 34.272786 ], [ 132.687786, 34.272272 ], [ 132.688923, 34.271386 ], [ 132.689953, 34.270676 ], [ 132.690597, 34.269861 ], [ 132.690275, 34.268939 ], [ 132.689803, 34.268229 ], [ 132.690146, 34.267502 ], [ 132.689674, 34.266562 ], [ 132.688365, 34.265747 ], [ 132.686563, 34.265569 ], [ 132.683387, 34.265676 ], [ 132.682636, 34.266420 ], [ 132.682550, 34.267272 ], [ 132.682958, 34.267715 ], [ 132.682035, 34.268353 ], [ 132.680533, 34.268424 ], [ 132.680190, 34.269595 ], [ 132.679482, 34.270481 ], [ 132.678323, 34.270925 ], [ 132.676220, 34.271155 ], [ 132.673967, 34.271811 ], [ 132.673066, 34.273833 ], [ 132.673774, 34.277219 ], [ 132.675469, 34.278088 ], [ 132.677207, 34.278549 ], [ 132.679632, 34.279382 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.688172, 34.285021 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.693000, 34.304999 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.694931, 34.302872 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.695789, 34.302411 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.699544, 34.299770 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.693279, 34.293601 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.693622, 34.289949 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.697506, 34.289471 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.702334, 34.295268 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.698944, 34.290712 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.706883, 34.307038 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.705424, 34.298228 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.712634, 34.305265 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.705853, 34.297678 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.708836, 34.297288 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.709823, 34.297395 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.713385, 34.292608 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.694395, 34.283992 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.703471, 34.286847 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.700682, 34.275730 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.707140, 34.287733 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.707720, 34.283389 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.713728, 34.288549 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.705510, 34.273638 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.709351, 34.274506 ] } }
+,
+{ "type": "Feature", "properties": { "name": "雲による未判読範囲", "_color": "#000000", "_opacity": 1, "_weight": 3, "_fillColor": "#ff0000", "_fillOpacity": 0.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.665341, 34.270676 ], [ 132.666736, 34.270233 ], [ 132.668066, 34.270410 ], [ 132.669139, 34.270162 ], [ 132.671242, 34.267289 ], [ 132.674246, 34.266740 ], [ 132.679310, 34.267077 ], [ 132.679954, 34.266509 ], [ 132.680619, 34.266084 ], [ 132.681048, 34.265622 ], [ 132.681327, 34.264984 ], [ 132.681284, 34.264292 ], [ 132.681005, 34.263920 ], [ 132.680812, 34.263494 ], [ 132.679782, 34.263778 ], [ 132.679546, 34.263441 ], [ 132.679546, 34.262980 ], [ 132.680469, 34.261827 ], [ 132.681048, 34.261349 ], [ 132.681005, 34.260852 ], [ 132.680469, 34.260568 ], [ 132.679117, 34.260214 ], [ 132.678237, 34.260302 ], [ 132.677851, 34.260852 ], [ 132.677443, 34.261721 ], [ 132.676585, 34.262359 ], [ 132.675641, 34.262572 ], [ 132.674997, 34.262359 ], [ 132.674675, 34.261881 ], [ 132.674954, 34.261118 ], [ 132.675705, 34.260426 ], [ 132.675662, 34.259983 ], [ 132.675555, 34.259557 ], [ 132.675834, 34.258954 ], [ 132.675469, 34.257944 ], [ 132.674954, 34.257376 ], [ 132.674053, 34.257216 ], [ 132.673066, 34.257287 ], [ 132.672379, 34.257624 ], [ 132.671864, 34.257553 ], [ 132.671156, 34.257713 ], [ 132.670770, 34.258085 ], [ 132.670770, 34.258582 ], [ 132.671478, 34.259557 ], [ 132.671049, 34.259912 ], [ 132.670577, 34.260444 ], [ 132.671092, 34.261703 ], [ 132.671156, 34.262235 ], [ 132.670255, 34.262572 ], [ 132.669139, 34.262484 ], [ 132.668860, 34.262306 ], [ 132.668753, 34.261952 ], [ 132.667637, 34.261969 ], [ 132.667358, 34.262093 ], [ 132.666929, 34.262182 ], [ 132.666414, 34.262058 ], [ 132.666135, 34.262111 ], [ 132.666028, 34.262962 ], [ 132.665298, 34.264026 ], [ 132.665105, 34.264700 ], [ 132.664912, 34.264984 ], [ 132.664118, 34.265286 ], [ 132.663281, 34.265427 ], [ 132.663174, 34.266172 ], [ 132.664032, 34.266633 ], [ 132.663646, 34.269488 ], [ 132.664397, 34.270410 ], [ 132.665341, 34.270676 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.671478, 34.251328 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.698987, 34.264168 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.699888, 34.257748 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.708685, 34.267325 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.704115, 34.259540 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.706904, 34.257039 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.706347, 34.242530 ] } }
+,
+{ "type": "Feature", "properties": { "name": "崩壊地等", "_markerType": "CircleMarker", "_color": "#ffffff", "_opacity": 1, "_weight": 1, "_fillColor": "#FF0000", "_fillOpacity": 1, "_radius": 8 }, "geometry": { "type": "Point", "coordinates": [ 132.715423, 34.305265 ] } }
+] }
+] }
+
