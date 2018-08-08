@@ -1,0 +1,13 @@
+{
+"name": "hiroshima_hokaichi.mbtiles",
+"description": "hiroshima_hokaichi.mbtiles",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "14",
+"center": "132.725830,34.515609,14",
+"bounds": "132.341309,34.161818,133.022461,34.578952",
+"type": "overlay",
+"format": "pbf",
+"generator": "tile-join v1.30.6",
+"json": "{\"vector_layers\": [ { \"id\": \"hiroshima_hokaichi\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"_color\": \"String\", \"_fillColor\": \"String\", \"_fillOpacity\": \"Number\", \"_markerType\": \"String\", \"_opacity\": \"Number\", \"_radius\": \"Number\", \"_weight\": \"Number\", \"name\": \"String\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"hiroshima_hokaichi\",\"count\": 7293,\"geometry\": \"Point\",\"attributeCount\": 8,\"attributes\": [{\"attribute\": \"_color\",\"count\": 2,\"type\": \"string\",\"values\": [\"#000000\",\"#ffffff\"]},{\"attribute\": \"_fillColor\",\"count\": 2,\"type\": \"string\",\"values\": [\"#FF0000\",\"#ff0000\"]},{\"attribute\": \"_fillOpacity\",\"count\": 2,\"type\": \"number\",\"values\": [0.2,1],\"min\": 0.2,\"max\": 1},{\"attribute\": \"_markerType\",\"count\": 1,\"type\": \"string\",\"values\": [\"CircleMarker\"]},{\"attribute\": \"_opacity\",\"count\": 1,\"type\": \"number\",\"values\": [1],\"min\": 1,\"max\": 1},{\"attribute\": \"_radius\",\"count\": 1,\"type\": \"number\",\"values\": [8],\"min\": 8,\"max\": 8},{\"attribute\": \"_weight\",\"count\": 2,\"type\": \"number\",\"values\": [1,3],\"min\": 1,\"max\": 3},{\"attribute\": \"name\",\"count\": 3,\"type\": \"string\",\"values\": [\"判読範囲\",\"崩壊地等\",\"雲による未判読範囲\"]}]}]}}"
+}
