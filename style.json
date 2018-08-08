@@ -5,7 +5,7 @@
     "hokai": {
       "type": "vector",
       "tiles": [
-        "https://mghs15.github.io/test3/hiroshima_hokaichi/{z}/{x}/{y}.pbf"
+        "https://mghs15.github.io/test3/hiroshima_hokaichi/{z}/{x}/{y}"
       ],
       "attribution": "hokai",
       "minzoom": 0,
